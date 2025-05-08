@@ -1,14 +1,12 @@
 import './App.css'
 import "./Cat.css"
-import Index from "../components/Cat/Cat.tsx";
+import Cat from "../components/Cat";
 
 function App() {
 
-  return (
-    <>
-      <Index />
-    </>
-  )
+    return (
+        <Cat />
+    )
 }
 
 export default App
