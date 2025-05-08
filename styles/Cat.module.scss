@@ -1,0 +1,25 @@
+.catWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 500px;
+  height: 500px;
+
+  img {
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 16px;
+    margin: 0 auto;
+  }
+
+  .errorMessage {
+    background-color: #ffcccc;
+    color: #ff0000;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+  }
+}
