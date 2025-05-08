@@ -1,3 +1,5 @@
+# GH pages - https://warning11223.github.io/cat-api/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
